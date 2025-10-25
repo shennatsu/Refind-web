@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1761152727473",
+    "title": "helm honda",
+    "description": "warna putih",
+    "location": "parkiran fik",
+    "category": "Aksesoris",
+    "type": "lost",
+    "photoUrl": "http://localhost:5000/uploads/1761152727463-578281534.jpg",
+    "status": "Hilang",
+    "date": "2025-10-22T17:05:27.473Z"
+  },
+  {
+    "id": "1761152927638",
+    "title": "helm honda",
+    "description": "warna putih",
+    "location": "parkiran fik",
+    "category": "Aksesoris",
+    "type": "found",
+    "photoUrl": "http://localhost:5000/uploads/1761152927633-532032590.jpg",
+    "status": "Ditemukan",
+    "date": "2025-10-22T17:08:47.638Z"
+  }
+]
